@@ -6,7 +6,7 @@ entre em contato:
    whatsApp: +55 (92) 999311-6080
    
  Procuro Colaborar em:
-    Desenvolvimeto Web - Front-end, back-end globe_with_meridians :globe_with_meridians:
+    Desenvolvimeto Web - Front-end, back-end globe_with_meridians :globe_with_meridians: <br>
     mobile. - Front-end com React-native
     
  Posso te ajudar com:

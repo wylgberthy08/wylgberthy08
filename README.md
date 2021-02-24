@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Sou Wylgberthy Mendes, estou cursando Sistemas de Informação pela Universidade federal do Amazonas - UFAM, Comecei a estudar programação em 2018, com Lógica de programação em Linguagem C, E depois de receber muitas dicas, resolvir escolher uma Stack, e conheci a Linguagem JavaScript, minha paixão por desenvolvimento Web e Mobile, começaram a partir que do momento que conheci as tecnologias NodeJS, ReactJs, e React-native, e estou Caminhando para minha carreira de desenvolvedor FullStack.'
 
 <!--
 **wylgberthy08/wylgberthy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

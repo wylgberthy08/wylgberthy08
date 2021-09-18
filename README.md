@@ -28,5 +28,5 @@ focado em desenvolvimento Mobile e Web. Sempre em busca de desafios e conhecimen
 
 ### Entre em contato
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5592993116080)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](berthymendes04@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://berthymendes04@gmail.com)
 
